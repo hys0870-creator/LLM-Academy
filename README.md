@@ -1,1 +1,113 @@
-# LLM-Academy
+<img src="assets/header.svg" alt="YUN HYUN SU · Portfolio 2026" width="100%">
+
+<br>
+
+**윤현수** · CJ올리브네트웍스 LLM Academy 대전 1기
+
+영업·마케팅·기획 업무를 Claude 에이전트 팀으로 자동화해 본 결과물을 모았습니다.
+버튼을 누르면 결과물이 바로 열립니다.
+
+<br>
+
+`01` &nbsp;—&nbsp; **PORTFOLIO / MARKETING**
+
+### 라라스윗 마케팅 인턴 포트폴리오
+
+저당 간식 고객 후기와 광고를 AI와 함께 분석해, 근거 있는 마케팅 제안으로 묶은 지원 포트폴리오.
+
+| 분석한 후기 | 분석한 광고 | 작성일 |
+|:--|:--|:--|
+| **8,498개** | **30개** | **2026.11.09** |
+
+[![VIEW](https://img.shields.io/badge/VIEW-%E2%86%92-111111?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/01_portfolio/lalasweet_portfolio.html)
+[![FOLDER](https://img.shields.io/badge/FOLDER-01__portfolio-555555?style=for-the-badge)](01_portfolio)
+
+<br>
+
+`02` &nbsp;—&nbsp; **PROPOSAL / AI REVIEW**
+
+### 본투윈 × 무신사 성수 팝업 제안서
+
+공식몰 리뷰를 분석하고, 기획팀 에이전트가 기획안을 쓰고, 무신사 MD 역할 에이전트가 검토하는 흐름으로 19번 고친 입점 제안서.
+
+| 분석한 리뷰 | 버전 | 반영한 MD 피드백 |
+|:--|:--|:--|
+| **600건** | **v1 → v19** | **8건** |
+
+[![VIEW v19](https://img.shields.io/badge/VIEW-v19%20%EC%B5%9C%EC%A2%85%EB%B3%B8-111111?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/02_borntowin-musinsa-proposal/proposal_v19_final.html)
+[![VIEW v14](https://img.shields.io/badge/VIEW-v14-555555?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/02_borntowin-musinsa-proposal/proposal_v14.html)
+[![VIDEO](https://img.shields.io/badge/VIDEO-20%EC%B4%88%20%EB%AA%A8%EC%85%98-555555?style=for-the-badge)](02_borntowin-musinsa-proposal/motion_20s.mp4)
+
+<br>
+
+`03` &nbsp;—&nbsp; **PROPOSAL / BEAUTY**
+
+### 제로이드 × 무신사 뷰티 입점 제안서
+
+MD 역할 리뷰어 에이전트로 검토·보완하는 방식을 처음 적용한 제안서.
+
+[![VIEW v2](https://img.shields.io/badge/VIEW-v2-111111?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/03_zeroid-musinsa-proposal/proposal_v2.html)
+[![VIEW v1](https://img.shields.io/badge/VIEW-v1-555555?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/03_zeroid-musinsa-proposal/proposal_v1.html)
+
+<br>
+
+`04` &nbsp;—&nbsp; **CONTENT / AI AGENT**
+
+### 네이버 블로그 에이전트 팀
+
+리서처 → 작가 → 이미지 제작 → 조립, 에이전트 4명이 메모 한 장으로 블로그 글 한 편을 완성합니다.
+
+| 에이전트 | 테스트 글 |
+|:--|:--|
+| **4명** | **3편** |
+
+[![라라스윗 저당간식](https://img.shields.io/badge/POST-%EB%9D%BC%EB%9D%BC%EC%8A%A4%EC%9C%97%20%EC%A0%80%EB%8B%B9%EA%B0%84%EC%8B%9D-111111?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/04_blog-agent-team/posts/lalasweet-low-sugar/final.html)
+[![유니클로 3D니트](https://img.shields.io/badge/POST-%EC%9C%A0%EB%8B%88%ED%81%B4%EB%A1%9C%203D%EB%8B%88%ED%8A%B8-555555?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/04_blog-agent-team/posts/uniqlo-3d-knit/final.html)
+[![블랙프라이데이 일정](https://img.shields.io/badge/POST-%EB%B8%94%EB%9E%99%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4%20%EC%9D%BC%EC%A0%95-555555?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/04_blog-agent-team/posts/black-friday-schedule/final.html)
+[![사용법](https://img.shields.io/badge/GUIDE-%EC%82%AC%EC%9A%A9%EB%B2%95-555555?style=for-the-badge)](04_blog-agent-team/사용법.md)
+
+<br>
+
+`05` &nbsp;—&nbsp; **SHORT-FORM / REELS**
+
+### 쓸데없이 신기한 — 인스타그램 잡지식 릴스
+
+40초 안에 하나의 "왜?"를 풀어 주는 세로 영상 시리즈. 대본·장면·자막·영상 프롬프트를 담은 제작시트와 초안 영상.
+
+| EP01 · 로마 콘크리트 | EP02 · 손가락 주름 |
+|:--:|:--:|
+| <img src="05_reels/EP01_cover.png" width="200" alt="EP01 커버"> | <img src="05_reels/EP02_cover.png" width="200" alt="EP02 커버"> |
+| [![VIDEO](https://img.shields.io/badge/VIDEO-%E2%86%92-111111?style=flat-square)](05_reels/EP01_roman-concrete_draft.mp4) [![SHEET](https://img.shields.io/badge/SHEET-%E2%86%92-555555?style=flat-square)](05_reels/EP01_production-sheet.md) | [![VIDEO](https://img.shields.io/badge/VIDEO-%E2%86%92-111111?style=flat-square)](05_reels/EP02_finger-wrinkles_draft.mp4) [![SHEET](https://img.shields.io/badge/SHEET-%E2%86%92-555555?style=flat-square)](05_reels/EP02_production-sheet.md) |
+
+<br>
+
+---
+
+<details>
+<summary><b>폴더 구성</b></summary>
+
+<br>
+
+| 폴더 | 내용 |
+|---|---|
+| `01_portfolio/` | 라라스윗 마케팅 인턴 포트폴리오 (HTML) |
+| `02_borntowin-musinsa-proposal/` | 본투윈 × 무신사 제안서 v19(최종)·v14, 20초 모션 영상 |
+| `03_zeroid-musinsa-proposal/` | 제로이드 × 무신사 뷰티 입점 제안서 v1·v2 |
+| `04_blog-agent-team/` | 블로그 에이전트 팀 설정(에이전트·가이드·스크립트)과 테스트 글 3편 |
+| `05_reels/` | 릴스 EP01·EP02 초안 영상, 커버, 제작시트, 채널 세팅안 |
+| `assets/` | README 배너 |
+
+</details>
+
+<details>
+<summary><b>알려 드립니다</b></summary>
+
+<br>
+
+- 이 저장소의 제안서는 **LLM Academy 실습 과제**이며, 제안서에 나오는 실제 회사(제로이드, 본투윈, 무신사, 라라스윗 등)와는 **관계가 없습니다.**
+- 제안서 속 담당자 이름·연락처는 실습용으로 넣은 것이며 실제 연락처가 아닙니다.
+- 매출·주문 비중·목표 같은 **수치는 실습용 가상 수치**입니다. 실제 회사 데이터가 아닙니다.
+- 상품·모델 사진의 저작권은 각 브랜드에 있습니다.
+- `VIEW` 버튼은 raw.githack.com을 거쳐 HTML을 화면으로 보여 줍니다. 열리지 않으면 파일을 내려받아 크롬에서 열어 주세요.
+
+</details>

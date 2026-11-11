@@ -81,6 +81,21 @@ MD 역할 리뷰어 에이전트로 검토·보완하는 방식을 처음 적용
 
 <br>
 
+`06` &nbsp;—&nbsp; **ORGANIZATION / AI AGENT TEAM**
+
+### 라라스윗 콘텐츠 에이전트 팀
+
+디렉터 1명과 6개 팀 15명의 에이전트가 라라스윗 공개 자료로 리서치 → 기획 → 시범 제작까지 실제로 진행한 기록을 재생하는 소개 페이지. 사람은 두 번 결재하고, 확인하지 못한 것은 `[확인 필요]`로 남깁니다.
+
+| 에이전트 | 운영 단계 | 시범 제작 | 확인 필요 |
+|:--|:--|:--|:--|
+| **15명 · 6팀** | **9단계 · 결재 2회** | **3건** | **7건** |
+
+[![VIEW](https://img.shields.io/badge/VIEW-%E2%86%92-111111?style=for-the-badge)](https://raw.githack.com/hys0870-creator/LLM-Academy/main/06_ai-content-agent-team/index.html)
+[![FOLDER](https://img.shields.io/badge/FOLDER-06__ai--content--agent--team-555555?style=for-the-badge)](06_ai-content-agent-team)
+
+<br>
+
 ---
 
 <details>
@@ -95,6 +110,7 @@ MD 역할 리뷰어 에이전트로 검토·보완하는 방식을 처음 적용
 | `03_zeroid-musinsa-proposal/` | 제로이드 × 무신사 뷰티 입점 제안서 v1·v2 |
 | `04_blog-agent-team/` | 블로그 에이전트 팀 설정(에이전트·가이드·스크립트)과 테스트 글 3편 |
 | `05_reels/` | 릴스 EP01·EP02 초안 영상, 커버, 제작시트, 채널 세팅안 |
+| `06_ai-content-agent-team/` | 라라스윗 콘텐츠 에이전트 팀 소개 페이지 — 실행 기록 재생 (HTML) |
 | `assets/` | README 배너 |
 
 </details>
